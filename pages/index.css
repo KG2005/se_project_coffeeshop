@@ -55,7 +55,7 @@
   font-size: 60px;
   line-height: 72px;
   margin: 183px 0 0;
-  letter-spacing: -0 6px;
+  letter-spacing: -0.6px;
   font-weight: 500;
   font-family: "Inter", Arial, sans-serif;
 }
@@ -132,9 +132,9 @@
 .recipes__videos {
   display: flex;
   gap: 40px;
-  justify-content: center;
   max-width: 480px;
   max-height: 273px;
+  justify-content: center;
 }
 
 .recipes__video-caption {
