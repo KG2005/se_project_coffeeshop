@@ -5,10 +5,7 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background-image: url("../images/background_header.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background: url("../images/background_header.svg") center/cover no-repeat;
   box-sizing: border-box;
   position: relative;
 }
